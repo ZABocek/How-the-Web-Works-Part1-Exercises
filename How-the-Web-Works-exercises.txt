@@ -1,0 +1,17 @@
+1. HTTP is Hyper Text Transfer Protocol, which is an application layer protocol in the Internet protocol suite model that governs how clients get data from, or send data to, a server.
+
+2. URL is a Uniform Resource Locator, which is an address for an Internet resource.
+
+3. A DNS is a Domain Name System, and it converts a URL human-readable web address into an IP address.
+
+4. A query string allows to you to pass key-value pairs into a URL, so that you can do a more specific search for information. It takes the form key1=value&key2=value2&, etc.
+
+5. GET gets data from a server, such as a web page or a search form. POST sends data to a server, thus changing the server.
+
+6. An HTTP request is a request from a client to a server that follows the HTTP protocol, such as requesting an HTML page from some .com website.
+
+7. An HTTP response sends back an HTML or CSS or JS page from a server back to a client/user.
+
+8. An HTTP header provides additional information about an HTTP request or response. Some request headers are Host, User-Agent, Accept, Cookie, Cache-Control, Accept-Language, etc. Some response headers are Content-Type, Last-Modified, Set-Cookie, Cache-Control, etc.
+
+9. There are more than 50 steps that occur when you type a URL in a browser. Some of those steps are listed below. You start typing a URL or a search and the autocomplete function kicks in. Various suggestions to autocomplete are presented to you. You can use the up or down arrows and the return button to go with a certain suggestion. When you press the enter key, an electric circuit specific to the enter key is closed, either directly or capacitively. A small amount of current starts to flow into the logic circuitry of the keyboard. It scans the state of each key switch, debounces the electrical noise of the rapid intermittent closure of the switch, and converts it to a keycode integer. In the case of the return key, it is 13. I won't get into the rest of the process, suffice it to say that my instructor is right: it is very complicated.
